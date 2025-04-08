@@ -1,4 +1,5 @@
 # Store-Sales---Time-Series-Forecasting
+![image](https://github.com/user-attachments/assets/4a504b1b-9b03-41ad-972d-a5b2e5fadd29)
 
 ## Description
 In this “getting started” competition, you’ll use time-series forecasting to forecast store sales on data from Corporación Favorita, a large Ecuadorian-based grocery retailer.
